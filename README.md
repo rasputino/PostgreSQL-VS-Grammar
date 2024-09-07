@@ -9,6 +9,7 @@ The grammar syntax comes from https://github.com/tkopets/sublime-postgresql-synt
 Currently, `.sql` files are highlighted using MSSQL syntax by default. This can sometimes lead to incorrect syntax highlighting, especially when working with PostgreSQL-specific syntax.
 
 For example:
+
 ![Example 1](https://github.com/user-attachments/assets/b4d1d1d8-d326-4eb3-9195-b747ef691857)
 ![Example 2](https://github.com/user-attachments/assets/cf4a97f8-29a8-4a2c-b095-f55f0122b044)
 
