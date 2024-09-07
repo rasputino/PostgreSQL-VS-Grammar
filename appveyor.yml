@@ -1,9 +1,0 @@
-version: 1.0.{build}
-image: Visual Studio 2017
-environment:
-  DeployExtension: false
-cache:
- - '%USERPROFILE%\.nuget\packages -> **\project.json'
-build_script:
-- ps: >-
-    .\build.ps1
