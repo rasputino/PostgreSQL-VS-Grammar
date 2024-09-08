@@ -17,4 +17,5 @@ To avoid this, I often rename my SQL files to use the `.psql` extension. However
 
 ## Solution
 And this is why this project exists.
+
 ![image](https://github.com/user-attachments/assets/5dfb90ee-e1b5-48d3-ad09-21a152643b63)
